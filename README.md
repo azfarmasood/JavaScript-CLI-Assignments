@@ -25,4 +25,3 @@ This project is a Command Line Interface (CLI) tool developed in JavaScript. It 
 
    ```bash
    git clone https://github.com/azfarmasood/JavaScript-CLI-Assignments.git
-   cd javascript-cli-assignment
